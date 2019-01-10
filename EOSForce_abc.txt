@@ -1,1 +1,3 @@
 add rulues
+
+the claim rules
