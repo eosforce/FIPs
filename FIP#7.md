@@ -60,7 +60,8 @@ The reward of block producers is 10% of block rewards, which is distributed acco
 
 ### 3.3 BP Stability
 
-Initial value is 0. 1 will be added with no block missing within each cycle of 699 blocks. Maximum is 3800. There will be no value added if it reaches 3800. Once there is block missing, the value will be reset to 0.
+The initialvalue is 0. Within each cycle of 207 blocks, 1 will be added with no block missing. The maximum is 4800. There will be no value added if it reaches 4800. If there is block missing, the value will be reset to 0. 
+
 
 Here we suppose:
 
@@ -89,25 +90,51 @@ The rewards of block-generating and voting fee can be received when the rewards 
 
 ### 3.5 BP Deposit
 
-Block-generating node needs to provide a part of tokens as a deposit. If the deposit is under the minimum amount (which is coin-generating amount*700*2 of each block), there will be no block-generating reward, and the node won’t be allowed to join the election of BP.
+The block-generating node needs to provide a part of tokens as a deposit. If the deposit is under the minimum amount, there will be no block-generating reward and voting fee reward, and all users voted to this node won’t get any reward.
 
-If the deposit is deducted to a minus when generating blocks and no supplement is offered, the reward will be cancelled. All users voted to this node won’t get reward, and the node won’t have income.
+Remarks:
+The minimum amount of node deposit is twice the block-generating rewards of 24 hours, which is the time for the community to make a resolution for nodes which don’t generate blocks. 
 
-> Remarks:The minimum of node deposit is the block-generating rewards of 24 hours,
-> which is the time for the community to make a resolution for nodes which don’t generate blocks.
+Supposing that:
+
+- Node reward per block is $R$
+
+- Daily amount of block-generating(no block missing) is $N$
+
+- Minimum amount of deposit is $P$
+
+- Amount of block-generating nodes is $S$
+
+
+
+So:  $P$ = $R$ * $N$ * 2 / $S$
 
 ### 3.6 Block Missing Punishment
 
 The deposit will be deducted for the block missing of the block-generating node, and twice the deposit of the reward of the block will be deducted for each less produced block.
 If the node continuously miss more than 9 blocks, anyone can propose the multi-sig punishment to kick the node out.
-The penalty will be divided by the user who proposed the multi-sig punishment and top 16 block-generating nodes which agree with the multi-sig punishment (20% for proposer and 80% for 16 nodes). A deposit of 100 EOSC is needed for the proposal of multi-sig punishment. After 14400 block heights, the deposited token can be returned whether the proposal is adopted or not.
+The penalty will be divided by the user who proposed the multi-sig punishment and top 16 block-generating nodes which agree with the multi-sig punishment (50% for proposer and 50% for 16 nodes). A deposit of 100 EOSC is needed for the proposal of multi-sig punishment. After 28800 block heights, the deposited token can be returned whether the proposal is adopted or not.
 
 The kicked-out node will be put under an observation period of 1 hour, during which user voting has no mining reward, and nodes don’t have any reward neither. After the observation period, BP can apply for a normal status to participate in the normal election and make normal mining profits.
 
 > Remarks:The penalty goes to penalty pool first. If the multi-sig proposal is not adopted, the penalty will accumulate.
 > If the proposal is adopted successfully, the accumulated penalty of the node will be distributed.
 
-## 4. Establish a decentralized budget system- to support ecological development
+## 4.Profitable Nodes Rewarding Mechanism
+
+### 4.1 Profitable Nodes Deposit And Requirements
+
++ The minimum amount of profitable node deposit is twice the block-generating rewards of 24 hours.
+
++ Heartbeat Protocol is required for profitable nodes, and the connection between profitable nodes and the chain is required to be perceived.
+
+### 4.2 Profitable Nodes Rewards
+
++ Reward for profitable nodes: 10% of block rewards is distributed by all profitable nodes according to the proportion of weighted votes.
+
++ Profitable nodes receive the voting fee rewards.
+
+## 5. Establish a decentralized budget system- to support ecological development
 
 - By establishing a decentralized budget system on the chain, anyone can initiate a budget proposal. 30% of the inflation issue goes into the budget system and does not impose a total amount limit. The decentralized budget system has separate account permissions, and account permissions are owned by the system. The approval authority is owned by the management committee.
 
@@ -119,7 +146,7 @@ The kicked-out node will be put under an observation period of 1 hour, during wh
 
 - 4.5 After the proposal has passed the publicity period, the proposer will get the EOSC tokens applied for in the next block award to implement the proposal content.
 
-## 5.	Establish the EOSFORCE Mainnet Management Committee mechanism : a more professional and effective decentralized organization to encourage the development of the chain
+## 6.	Establish the EOSFORCE Mainnet Management Committee mechanism : a more professional and effective decentralized organization to encourage the development of the chain
 
 The EOSFORCE network management committee is designed to manage and approve proposals for a decentralized budget system, monitor the implementation of the sponsors, and promote a more equitable distribution of the decentralized budget system. Hereinafter referred to as the management committee.
 
