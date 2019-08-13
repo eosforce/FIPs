@@ -10,7 +10,7 @@
 **1. 20% of EOSC tokens of unactivated genesis accounts can be freely used.**
 
 
-**2. 20% of EOSC tokens of unactivated genesis accounts will be locked, and replaced for the same amount of lock tokens.**
+**2. 80% of EOSC tokens of unactivated genesis accounts will be locked, and replaced for the same amount of lock tokens.**
 
 >  Remarks:
 
