@@ -21,6 +21,8 @@ In order to balance the fairness of community governance, the following plan is 
 2. Destroy Unactivated Genesis Account LockupPlan Proposal FIP#3, 20% unactivatedgenesis accounts and their tokens.
 3. Once the above-mentioned destruction takeseffect, the mainnet will issue new tokens in the future, and the inflation willbe calculated based on the total amount of tokens after destruction.
 
-**The above plan is just a proposal, which is going to be determined by the voting at EOSFORCE Mainnet BP Meeting.**
 
 **2019.8.13**
+
+**This proposal was voted on at the 12th BP Meeting of the EOSC MainNet on August 21, 2019 Beijing time.**
+
