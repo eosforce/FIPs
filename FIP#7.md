@@ -142,9 +142,12 @@ The kicked-out node will be put under an observation period of 1 hour, during wh
 
 - The proposer needs to specify the objectives of the proposal, the implementation details (cycle, cost, amount) and the return that the proposal will bring.
 
-- After the proposal is approved by the management committee, there will be a 7-day publicity period. If more than one-third of the profitable nodes are opposed during the publicity period, the proposal can be rejected. If the proposal is not rejected during the publicity period, the system will automatically issue the award to the applicant's account on a monthly basis after the publicity period. During the award payment period, the management committee and the profitable nodes are greater than one-third of the veto, and the proposal award can be suspended.
+- After the proposal has been approved by the Management Committee, the proposer can launch a withdrawal proposal. The amount of the withdrawal  proposal cannot exceed the total amount of the proposal. The withdrawal proposal requires the approval of the Management Committee. The tokens will be transferred to the applicant's account after the approval.
 
-- 4.5 After the proposal has passed the publicity period, the proposer will get the EOSC tokens applied for in the next block award to implement the proposal content.
+- If the community keeps reservations on the proposal, a multi-sig can be launched to close the proposal with more than 2/3 of the BPs signed.
+
+- The processing time for any proposal is only 14 days, and the proposal that has not approved within 14 days will not be passed.
+
 
 ## 6.	Establish the EOSFORCE Mainnet Management Committee mechanism : a more professional and effective decentralized organization to encourage the development of the chain
 
@@ -160,6 +163,6 @@ Remarks:
 - All proposals need the approval of more than two-thirds of the management committee to become effective.
 - The management committee shall set up an impeachment mechanism. Anyone who initiates impeachment can initiate impeachment, and any member who passes the vote of more than 1/3 profitable node can be impeached.
 - Election criteria for the management committee are set by the block producers.
-- 5% of all the adopted proposal fee is automatically paid into the account of management committee as the salary for the membership.
+- The salary of the Management Committee requires to be received through the proposal.
 The above is only a proposed scheme, and the final result is still to be determined by the EOSFORCE mainnet block producers parliamentary voting.
 
