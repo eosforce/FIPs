@@ -164,5 +164,6 @@ Remarks:
 - The management committee shall set up an impeachment mechanism. Anyone who initiates impeachment can initiate impeachment, and any member who passes the vote of more than 1/3 profitable node can be impeached.
 - Election criteria for the management committee are set by the block producers.
 - The salary of the Management Committee requires to be received through the proposal.
+
 The above is only a proposed scheme, and the final result is still to be determined by the EOSFORCE mainnet block producers parliamentary voting.
 
