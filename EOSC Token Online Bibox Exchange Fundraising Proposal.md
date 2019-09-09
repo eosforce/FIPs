@@ -2,7 +2,7 @@ With the rapid development of EOSC mainnet users, the community has become incre
 
 In view of the fact that EOSC is one of the most promising active varieties in the market, Bibox Exchange will distribute the activated EOSC tokens to its EOS genesis account as soon as possible and open the EOSC's token transfer business. Bibox Exchange opens the EOSC transaction pair, which can take special treatment without charging the fee, but must provide 450,000 EOSC token promotion activities for the promotion of the exchange EOSC transaction pair to promote Bibox exchange users. Promote the enthusiasm of users of Bibox Exchange to trade EOSC tokens.
 
-After the Awake node communicates with the EOSC mainnet BP conference secretariat and the JiqiX node (this secretariat tokenview, EOSOU, SKY.EOSC and eosforce Captain), it is proposed that the Secretariat and the Awake node take the lead to initiate initiatives and raise funds for the community. A donation of 450,000 Eosc was used to promote EOSC listing on Bibox. details as follows:
+After the Awake node communicates with the EOSC mainnet BP conference secretariat and the JiqiX node (this secretariat tokenview, EOSOU, SKY.EOSC and eosforce Captain), it is proposed that the Secretariat and the Awake node take the lead to initiate initiatives and raise funds for the community. A donation of 450,000 Eosc tokenwas used to promote EOSC listing on Bibox. details as follows:
 
 1.  **Total fundraising: 450,000 EOSC**
 2.  **Fundraising account: donations (Note: This account is for 4 members of the Secretariat And jiqiX, Awake node multi-sign account. )**
@@ -18,7 +18,7 @@ EOSC is one of the most cohesive communities. The EOSC mainnet consensus is bein
 **Initiator: Secretariat EOSAWAKE EOSAWAKE node jiqiX node**
 September 4, 2019
 
-Attachment: Bibox Exchange Introduction
+Attachment: Bibox Exchange Introduction.
 
 **Exchange Introduction feixiaohao Rank 20**
 
