@@ -115,6 +115,8 @@ The deposit will be deducted for the block missing of the block-generating node,
 If the node continuously miss more than 9 blocks, anyone can propose the multi-sig punishment to kick the node out.
 The penalty will be divided by the user who proposed the multi-sig punishment and top 16 block-generating nodes which agree with the multi-sig punishment (50% for proposer and 50% for 16 nodes). A deposit of 100 EOSC is needed for the proposal of multi-sig punishment. After 28800 block heights, the deposited token can be returned whether the proposal is adopted or not.
 
+If the node is out of the block normally, you can change its own penalized state to the normal state.
+
 The kicked-out node will be put under an observation period of 1 hour, during which user voting has no mining reward, and nodes don’t have any reward neither. After the observation period, BP can apply for a normal status to participate in the normal election and make normal mining profits.
 
 > Remarks:The penalty goes to penalty pool first. If the multi-sig proposal is not adopted, the penalty will accumulate.
