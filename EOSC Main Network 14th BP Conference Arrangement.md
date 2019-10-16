@@ -1,7 +1,7 @@
 # Theme：EOSC Main Network 14th BP Conference Arrangement
 - Time: October 11, 2019 20:00-21:30 (UTC+8)
 - Meeting form：https://zoom.us/j/662771065 （ZOOM）
-- Conference host：Tokenview-漫九步
+- Conference host：Tokenview-Sfera
 - Conference translation：lily
 - Conference recorder：eosou－Bill Sou
 ## EOSC main network first budget management committee campaign
@@ -14,15 +14,15 @@ The SuperNode voted for 9 candidates to be elected as members of the first eosfo
 
 candidate | Number of votes
 ---|---
-eoswake舍得 | 17 Elected
-jeepool大毛 | 15 Elected
-汪伟 | 13 Elected
-bepal怡宝 | 9 Elected
-开发团队易传棋 | 8 Elected
-郭英  | 7
-Jack徐鹏军 | 7
-黑粉L | 6
-一枝毒秀 | 3
+eoswake Shede | 17 Elected
+jeepool big hair | 15 Elected
+Wang Wei | 13 Elected
+bepal YIBAO | 9 Elected
+eosforce Yi Chuanqi | 8 Elected
+Guo Ying  | 7
+Jack Xu | 7
+The first black powder| 6
+posion show | 3
 
 - ## The awake node explained to the community the two proposals it made, the first "Improve node information and adjust node penalty rule" and the second "Proposal to Adjust Node Punishment Rules"
 Vote for 2 proposals made by awake [reference detail](https://bbs.eosforce.io/topic/322)，The result is as follows，Because there are less than 16 votes, it is necessary to ask the un-voting super nodes to vote after they have finished the meeting. The final result is subject to multiple signatures.
@@ -31,9 +31,9 @@ Vote for 2 proposals made by awake [reference detail](https://bbs.eosforce.io/to
 Ranking |Node name | BP NAME | Proposal 1 | Proposal 2
 ---|---|---|--- |---
 1 | everest | everest | 1 | 1
-2 | 麦子钱包 | mathwalletbp |   | 1
+2 | math wallet | mathwalletbp |   | 1
 3 | blockpro | blockpro | 1 | 1
-4 | 原力觉醒 | eosawake | 1 | 1
+4 | eosawake | eosawake | 1 | 1
 5 | kucoinisrich | kucoinisrich | 1 | 1
 6 | 水木社区 | eosshuimu | 1 | 1
 7 | eostrust | eostrust |   | 1
