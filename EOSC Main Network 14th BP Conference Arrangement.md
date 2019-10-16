@@ -6,11 +6,11 @@
 - Conference recorder：eosou－Bill Sou
 ## EOSC main network first budget management committee campaign
 
-The SuperNode voted for 9 candidates to be elected as members of the first eosforce public budget budget committee. First, 9 candidates introduced themselves according to the order of registration. They were Wang Wei, She De, Guo Ying, Da Mao, and Yuan Li. A black powder, Yi Bao, Yi Chuanqi, Jack Xu Pengjun, a poison show.
+The SuperNode voted for 9 candidates to be elected as members of the first eosforce public budget budget committee. First, 9 candidates introduced themselves according to the order of registration. They were Wang Wei, She De, Guo Ying, Big hair, and Yuan Li. the black powder, YiBao, Yi Chuanqi, Jack Xu, poison show.
 [Candidate self-introduction article](https://github.com/eosforce/FIPs/issues/16)
 - **Voting method**：The node votes for the candidate. Each node has 5 votes on hand, and the ticket cannot be repeated on the same candidate.
 - **Node attendance statistics**：There are 17 super nodes participating in the voting, so the election is valid.
-- **Voting results**：The five elected members are Eoswake, Jeepool Da Mao, Wang Wei, Bepal Yibao, and the development team Yi Chuanqi.  [Each node voted in detail ](https://github.com/eosforce/FIPs/issues/16#issuecomment-541348561)
+- **Voting results**：The five elected members are Eoswake, Jeepool Big hair, Wang Wei, Bepal Yibao, and the development team Yi Chuanqi.  [Each node voted in detail ](https://github.com/eosforce/FIPs/issues/16#issuecomment-541348561)
 
 candidate | Number of votes
 ---|---
@@ -55,7 +55,7 @@ Ranking |Node name | BP NAME | Proposal 1 | Proposal 2
 23 | forcesphere | forcesphere |   |  
 
 - ## Cyborg reports to the community on technical routes
-### eThe eosforce public chain is a high performance computing platform, and the future technical directions are as follows:
+### The eosforce public chain is a high performance computing platform, and the future technical directions are as follows:
 1. Privacy calculation
 1. Zero knowledge proof
 1. Privacy store
@@ -65,7 +65,7 @@ Ranking |Node name | BP NAME | Proposal 1 | Proposal 2
 1. Light node
 1. POS consensus mechanism and DPOS consensus
 1. Budget system
-### eEosforce will seize the trend of heterogeneous cross-chain era into the ecology of cosmos, pay attention to the following:
+### Eosforce will seize the trend of heterogeneous cross-chain era into the ecology of cosmos, pay attention to the following:
 1. Compatible with mainstream cross-chain protocols such as COSMOS and Polkadot protocol
 1. Open source EOSC high performance computing sdk
 1. High performance computing center as a cross-chain ecosystem
@@ -75,7 +75,7 @@ Ranking |Node name | BP NAME | Proposal 1 | Proposal 2
 1. Voting election
 1. Management budget
 
-++ Reference article EOSC Cyborg ++：[Public chain needs high performance low latency computing based on DPoS consensus | Chain tea interview](https://mp.weixin.qq.com/s/PcUwdWm5ktQtTnkDQS302w)
+ Reference article EOSC Cyborg ：[Public chain needs high performance low latency computing based on DPoS consensus | lianchaguan interview](https://mp.weixin.qq.com/s/PcUwdWm5ktQtTnkDQS302w)
 
 
 On October 11th, 2019, at 20:00-21:30, Meeting record is the secretariat's eosou node bill sou, with: BP proposal email: BPproposal@eosforce.io
