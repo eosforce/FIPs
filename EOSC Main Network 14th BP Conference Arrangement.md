@@ -28,31 +28,31 @@ posion show | 3
 Vote for 2 proposals made by awake [reference detail](https://bbs.eosforce.io/topic/322)，The result is as follows，Because there are less than 16 votes, it is necessary to ask the un-voting super nodes to vote after they have finished the meeting. The final result is subject to multiple signatures.
 
 
-Ranking |Node name | BP NAME | Proposal 1 | Proposal 2
----|---|---|--- |---
-1 | everest | everest | 1 | 1
-2 | math wallet | mathwalletbp |   | 1
-3 | blockpro | blockpro | 1 | 1
-4 | eosawake | eosawake | 1 | 1
-5 | kucoinisrich | kucoinisrich | 1 | 1
-6 | 水木社区 | eosshuimu | 1 | 1
-7 | eostrust | eostrust |   | 1
-8 | hexlantttttt | hexlantttttt |1 | 1
-9 | 欧柚 | eosou.io | 1 | 1
-10 | 机器X | jiqix | 1 | 1
-11 | 泰坦社区 | titanforce |1 |1
-12 | 中原区块链 | ccbc | 1 |1
-13 | Cindy Daily | cindydaily |   |  
-14 | eosecoio | eosecoio |   | 1
-15 | 节点易 |jeepool | 1 |  
-16 | 古德社区 | eosgod |   |  
-17 | onetaoforce | onetaoforce |   |  
-18 | eosio.top | eosio.top |   |  
-19 | coinbasenode | coinbasenode | 1 | 1
-20 | 原力天下 | sky.eosc | 1 | 1
-21 | eospeople | eospeople |   |  
-22 | biquannode | biquannode |   |  
-23 | forcesphere | forcesphere |   |  
+Ranking | BP NAME | Proposal 1 | Proposal 2
+---|---|--- |---
+1 |  everest | 1 | 1
+2 |  mathwalletbp |   | 1
+3 |  blockpro | 1 | 1
+4 | eosawake | 1 | 1
+5 |  kucoinisrich | 1 | 1
+6 |  eosshuimu | 1 | 1
+7 |  eostrust |   | 1
+8 |  hexlantttttt |1 | 1
+9 |  eosou.io | 1 | 1
+10 |  jiqix | 1 | 1
+11 |  titanforce |1 |1
+12 | ccbc | 1 |1
+13 |  cindydaily |   |  
+14 |  eosecoio |   | 1
+15 | jeepool | 1 |  
+16 |  eosgod |   |  
+17 | onetaoforce |   |  
+18 |  eosio.top |   |  
+19 |  coinbasenode | 1 | 1
+20 |  sky.eosc | 1 | 1
+21 |  eospeople |   |  
+22 |  biquannode |   |  
+23 | forcesphere |   |  
 
 - ## Cyborg reports to the community on technical routes
 ### The eosforce public chain is a high performance computing platform, and the future technical directions are as follows:
