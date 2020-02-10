@@ -117,7 +117,7 @@ The penalty will be divided by the user who proposed the multi-sig punishment an
 
 If the node is out of the block normally, you can change its own penalized state to the normal state.
 
-The kicked-out node will be put under an observation period of 1 hour, during which user voting has no mining reward, and nodes don’t have any reward neither. After the observation period, BP can apply for a normal status to participate in the normal election and make normal mining profits.
+The kicked-out node will be put under an observation period of 1 day(28800 block heights), during which user voting has no mining reward, and nodes don’t have any reward neither. After the observation period, BP can apply for a normal status to participate in the normal election and make normal mining profits.
 
 > Remarks:The penalty goes to penalty pool first. If the multi-sig proposal is not adopted, the penalty will accumulate.
 > If the proposal is adopted successfully, the accumulated penalty of the node will be distributed.
