@@ -37,14 +37,14 @@ onetaoforce  | 是 | 1
  ccbc | 是 | 1
  biquannode  |代理   |1  
  helloforcebp  | 是  |  1
- forcesphere  | 是  |  
+ eospeople  | 是  |  
 
 **投票结果：17票同意、0票反对、6票弃权，第五届秘书处成立。**
 ## 2. 秘书处社区治理提案表决
 
 为了统一社区治理预算支出，吸引社区成员更加积极参与EOSC主网社区治理，提案提议：秘书处工资由开发者账户改为从去中心化预算系统申请，投票情况如下：
 
-BP NAME | 是否参会 | 秘书处竞选
+BP NAME | 是否参会 | 秘书处提案
 ---|---|---
 mathwalletbp | 是 | 1
 everest |  是 | 1
@@ -59,7 +59,7 @@ kucoinisrich  |  |
 titanforce  |是|1
  eosshuimu |  |
 Cindy Daily  |代理 | 1 
- jeepool  |  是 | 1
+ jeepool  |  是 | 
 onetaoforce  | 是 | 1 
  bepal.eosc |  是 |  1
  may.force  |   |  
@@ -68,7 +68,7 @@ onetaoforce  | 是 | 1
  ccbc | 是 | 1
  biquannode  |代理   |1  
  helloforcebp  | 是  |  1
- forcesphere  | 是  | 
+ eospeople | 是  | 1
 
 **投票结果：17票同意、0票反对、6票弃权，提案通过。**
 ## 3. 预算委员会社区治理提案
